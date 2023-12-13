@@ -1,0 +1,4 @@
+.env 
+# //so environment variables don't get pushed to github
+
+/node_modules
